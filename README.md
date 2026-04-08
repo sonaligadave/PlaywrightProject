@@ -1,10 +1,9 @@
 <img width="885" height="964" alt="Screenshot 2026-04-08 at 12 00 40 AM" src="https://github.com/user-attachments/assets/297b5959-a624-4055-a535-4e63727cad8e" />
 
-To start with 
-markdown
+
 # PlaywrightProject 
 
-A brief description of what your Python project does.
+
 
 ## 🚀 Getting Started
 
