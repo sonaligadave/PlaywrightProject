@@ -1,0 +1,25 @@
+Test Case : test_login
+- TC1: Verify that a standard user can log in successfully.
+- TC2: Verify that a problem user can log in successfully.
+- TC3: Verify that a performance glitch user can log in successfully.
+- TC4: Verify that an error user can log in successfully.
+- TC5: Verify that a visual user can log in successfully.
+- TC6: Verify that a locked out user receives an error message.
+
+Test Case : test_pet_api
+- TC7: Verify a pet image can be uploaded successfully.
+- TC8: Verify pet details can be retrieved by ID.
+- TC9: Verify an error is returned for invalid pet detail requests.
+- TC10: Verify a pet can be created using a JSON file.
+- TC11: Verify a pet can be created and validated using Get api call.
+- TC12: Verify a pet can be deleted and validated using Get api call should return 404.
+- TC13: Verify pets can be searched for by their status.
+
+Test Case : test_regression
+- TC14: Verify the complete end-to-end checkout flow works.
+- TC15: Verify a single product can be added to the cart.
+- TC16: Verify a product can be removed from the cart.
+- TC17: Verify multiple products can be added to the cart.
+- TC18: Verify the "Continue Shopping" button functions correctly.
+- TC19: Verify the checkout information form can be submitted.
+- TC20: Verify the final order completion process works.
